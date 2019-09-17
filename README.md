@@ -11,7 +11,7 @@
 ### বাংলায় পাইথন
 * [জ্যাঙ্গো এবং পাইথন ](http://masnun.com/tutorials)  - [আবু আশরাফ] 
 * [বাংলায় পাইথন](https://python.howtocode.com.bd/?fbclid=IwAR3WakbZDJpt4retznSS2PPjaytDCWnUdNQ95YB9nv0KF5BHOb1R65moG6s) 
-* [সহজ ভাষায় পাইথন ৩ ](https://python.maateen.me)  - [মাকসুদুর রহমান মাটিন] (https://www.linkedin.com/in/maateen/)
+* [সহজ ভাষায় পাইথন ৩ ](https://python.maateen.me)  - [মাকসুদুর রহমান মাটিন](https://www.linkedin.com/in/maateen/)
 
 ## ভিডিও টিউটরিয়াল
 
@@ -23,3 +23,7 @@
 ### পাইথন প্রোগ্রামিং এডভান্সড সিরিজঃ
 
 * [পাইথন বাংলা এডভান্সড](https://bit.ly/2Jzggmx) - [মাহমুদ আহাসান] 
+
+### পাইথন প্রোগ্রামিং দিয়ে ওয়েবপেজ স্ক্র‍্যাপিং সিরিজঃ
+
+* [আলজাজিরা নিউজপেপার Web Scraping ](https://www.youtube.com/watch?v=3YLyT4LRJUc&list=PLlMOodDAsO4zLUcrCyUJ8aclYqOOcSMfn&fbclid=IwAR3Xwh5cMzLW-1OQEnDB0jSjXEL2qJYKn0wVgiTPif-0MRX7A0sBRIkre44) - [মাহমুদ আহাসান] 
