@@ -28,6 +28,8 @@
 
 * [আলজাজিরা নিউজপেপার Web Scraping ](https://www.youtube.com/watch?v=3YLyT4LRJUc&list=PLlMOodDAsO4zLUcrCyUJ8aclYqOOcSMfn&fbclid=IwAR3Xwh5cMzLW-1OQEnDB0jSjXEL2qJYKn0wVgiTPif-0MRX7A0sBRIkre44) - [মাহমুদ আহাসান] 
 
+
+
 ## বাংলায় হাতে-কলমে পাইথন
 
 * [হাতে-কলমে পাইথন](https://adhikary.net/bn/2016/06/11/learn-python-by-building-0/?fbclid=IwAR1M9fQwdn2nFQXidPuBOkuGgHDXkiEhusQR0xp5XAg0hK6cSKAxi7El_KI)  -  [অনিরুদ্ধ অধিকারী](https://linkedin.com/in/tuxboy)
