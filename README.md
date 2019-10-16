@@ -12,6 +12,7 @@
 * [জ্যাঙ্গো এবং পাইথন ](http://masnun.com/tutorials)  - [আবু আশরাফ] 
 * [বাংলায় পাইথন](https://python.howtocode.com.bd/?fbclid=IwAR3WakbZDJpt4retznSS2PPjaytDCWnUdNQ95YB9nv0KF5BHOb1R65moG6s) 
 * [সহজ ভাষায় পাইথন ৩ ](https://python.maateen.me)  - [মাকসুদুর রহমান মাটিন](https://www.linkedin.com/in/maateen/)
+* [পাইথন প্রোগ্রামিং ](http://pybook.subeen.com/)  - [তামিম শাহ‍্‍রিয়ার](https://www.facebook.com/tamim.shahriar.subeen)
 
 ## ভিডিও টিউটরিয়াল
 
